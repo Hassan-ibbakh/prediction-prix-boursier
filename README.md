@@ -5,8 +5,8 @@ Ce projet vise à prédire le **prix de clôture des actions AAPL (Apple Inc.)**
 ##  Contenu du projet
 
 -  **Collecte automatique des données** via l’API [yfinance](https://pypi.org/project/yfinance/)
--  Prétraitement et nettoyage des données
 -  Analyse exploratoire (EDA)
+-  Prétraitement et nettoyage des données
 -  Extraction de variables financières (indicateurs techniques : RSI, moyennes mobiles, etc.)
 -  Entraînement de plusieurs modèles :
   - Régression Linéaire
