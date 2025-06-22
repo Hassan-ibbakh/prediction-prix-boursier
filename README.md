@@ -44,4 +44,3 @@ Le modèle de **régression linéaire** a obtenu les meilleures performances :
 Projet réalisé par :
 - *Hassan Ibbakh*
 - *Youssef Karimi*  
-Master IASD, Université Mohammed Premier.
